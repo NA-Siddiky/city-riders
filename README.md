@@ -5,7 +5,7 @@
  Phone :- *+8801712378303*
 ### Project name:- *City Riders*
 
- GitHub Link:- [City Riders GitHub link](https://github.com/Porgramming-Hero-web-course/react-auth-NA-Siddiky.git).
+ GitHub Link:- [City Riders GitHub link](https://github.com/NA-Siddiky/city-riders.git).
 
  Link:- [City Riders firebase link](https://city-riders-40883.web.app/).
 
