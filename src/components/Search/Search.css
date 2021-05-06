@@ -1,0 +1,17 @@
+.searchResult svg {
+	margin-right: 10px;
+}
+.searchResult h5 svg {
+	color: gray;
+}
+.searchResult .location svg {
+	font-size: 30px;
+	margin-right: 35px;
+	border: 1px solid white;
+	border-radius: 50%;
+	color: black;
+}
+
+.searchHome {
+	height: fit-content;
+}

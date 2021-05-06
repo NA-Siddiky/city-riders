@@ -1,0 +1,21 @@
+[{
+    "id": 1,
+    "transportType": "Bike",
+    "image": "https://www.hondaprokevin.com/pictures/2021-cb650r/2021-honda-cb650r-review-specs-naked-cbr-sport-bike-motorcycle-cb650-r-650-blue-.jpg"
+  },
+  {
+    "id": 2,
+    "transportType": "Car",
+    "image": "https://image.freepik.com/free-vector/offroad-grey-car-white-background-luxury-vehicle-realistic-crossover-4x4-transport-vector_171739-81.jpg"
+  },
+  {
+    "id": 3,
+    "transportType": "Bus",
+    "image": "https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX21724167.jpg"
+  },
+  {
+    "id": 4,
+    "transportType": "Train",
+    "image": "https://www.pngitem.com/pimgs/m/217-2177007_metro-rail-train-png-transparent-png-download.png"
+  }
+]
