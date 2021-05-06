@@ -4,10 +4,11 @@
 
  Phone :- *+8801712378303*
 ### Project name:- *City Riders*
+ 
+  Link:- [City Riders live link](https://city-riders-40883.web.app/).
 
  GitHub Link:- [City Riders GitHub link](https://github.com/NA-Siddiky/city-riders.git).
 
- Link:- [City Riders firebase link](https://city-riders-40883.web.app/).
 
 ## Project Feature's:-
 
